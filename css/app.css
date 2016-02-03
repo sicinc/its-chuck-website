@@ -3963,7 +3963,7 @@ table.hover tr:nth-of-type(even):hover {
   animation-delay: 700ms !important; }
 
 body {
-  background: url(/images/background.jpg) no-repeat center center fixed;
+  background: url(/images/main-background.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

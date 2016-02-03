@@ -1,3 +1,3 @@
-# Sic Inc Website
+# It's Chuck Website
 
-** View the site here - [Sic Inc](http://sicinc.co/)**
+** View the site here - [It's Chuck](http://itschuck.com/)**
